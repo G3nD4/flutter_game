@@ -22,11 +22,5 @@ void main() async {
 
 
 
-
-
-
-
-
-   // sjvsld
   runApp(MyApp(settingsController: settingsController));
 }
