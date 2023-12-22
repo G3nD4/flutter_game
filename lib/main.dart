@@ -17,16 +17,5 @@ void main() async {
   // SettingsController for changes, then passes it further down to the
   // SettingsView.
 
-
-
-
-
-
-
-
-
-
-
-   // sjvsld
   runApp(MyApp(settingsController: settingsController));
 }
